@@ -1,0 +1,142 @@
+[
+  {
+    "name": "gobirds.online",
+    "url": "https://gobirds.online/",
+    "handles": ["*.gobirds.online"]
+  },
+  {
+    "name": "swifties.social",
+    "url": "https://swifties.social/",
+    "handles": ["*.swifties.social"],
+    "notes": "Taylor Swift fandom handle service"
+  },
+  {
+    "name": "handles.domi.zip",
+    "url": "https://handles.domi.zip/",
+    "handles": ["*.the-gay.cat", "*.woke.cat", "*.lesbian.cat", "*.is-extremely.gay", "*.solo-game.dev", "*.garage-game.dev"]
+  },
+  {
+    "name": "army.social",
+    "url": "https://army.social",
+    "handles": ["*.army.social"],
+    "notes": "BTS fandom handle service"
+  },
+  {
+    "name": "handles.club",
+    "url":, "https://handles.club",
+    "handles": ["literally too many to list here"],
+    "notes": "provides a service that lets you run your own community handle domain at [handles.net](https://handles.net/)"
+  },
+  {
+    "name": "Bsky Handle Getter",
+    "url": "https://get.pmd.social/",
+    "handles": ["*.pmd.social", "*.poke.social", "*.explorersguild.pmd.social", "*.lucario.social", "*.riolu.social", "*.renamon.social"],
+    "notes": "Mostly Pokémon (Mystery Dungeon) or Digimon related"
+  },
+  {
+    "name" "kawaii.social",
+    "url": "https://kawaii.social",
+    "handles": ["*.kawaii.social"]
+  },
+  {
+    "name": "vtubers.social",
+    "url": "https://vtubers.social",
+    "handles": ["*.vtubers.social"],
+    "notes": "For VTubers"
+  },
+  {
+    "name": "pharmsky.app",
+    "url": "https://pharmsky.app",
+    "handles": ["*.pharmsky.app"],
+    "notes": "For pharmacists"
+  },
+  {
+    "name:" "etheirys.social",
+    "url": "https://etheirys.social/",
+    "handles": ["*.etheirys.social"],
+    "notes": "Intended for FFXIV players"
+  },
+  {
+    "name": "gposers.pics",
+    "url": "https://gposers.pics",
+    "handles": ["*.gposers.pics"],
+    "notes": "For FFXIV players posting GPose screencaptures"
+  },
+  {
+    "name": "elderscrolls.social",
+    "url": "https://elderscrolls.social",
+    "handles": ["*.elderscrolls.social"],
+    "notes": "For Elder Scrolls Online players"
+  },
+  {
+    "name": "twigs.tv",
+    "url": "https://twigs.tv/",
+    "handles": ["*.twigs.tv"],
+    "notes": "For fans of [Tofie](https://bsky.app/profile/tofiemusic.net)"
+  },
+  {
+    "name": "Blue Streak",
+    "url": "https://streak.blue",
+    "handles": ["*.is-on.blue", "*.weird.blue", "*.chatter.blue", "*.downunder.blue", "*.europe.blue", "*.enviro.blue", "*.goes.blue"]
+  },
+  {
+    "name": "Bluesky Handle Deviancy",
+    "url": "https://bsky.shy.cat/",
+    "handles": ["*.shy.cat", "*.paw.rest", "*.vore.bar", "*.nsfw.science", "*.maw.rest", "*.sergals.art", "*.sergal.mom", "*.sergal.date"]
+  },
+  {
+    "name": "bsky.to",
+    "url": "https://bsky.to",
+    "handles": ["*.bsky.to"]
+  },
+  {
+    "name": "fursona.club",
+    "url": "https://fursona.club",
+    "handles": ["*.fursona.club"]
+  },
+  {
+    "name": "SkyName.io",
+    "url": "https://skyname.io",
+    "handles": ["*.skyname.io", "*.femboy.gg", "*.gorp.dog", "*.arff.dog", "*.foxes.pet"],
+    "notes": "Allows for bringing your own domain also, apparently"
+  },
+  {
+    "name": "Skyname",
+    "url": "https://skyna.me",
+    "handles": ["*.bluesky.zip", "*.bsky.cool", "*.bsky.finance", "*.bsky.fish", "*.excuseme.wtf", "*.skeets.online", "*.tired.io", "*.vibes.cool"],
+    "notes": "Not the same as SkyName.io"
+  },
+  {
+    "name": "ispost.ing",
+    "url": "https://ispost.ing",
+    "handles": ["*.ispost.ing"]
+  },
+  {
+    "name": "bsky.mk",
+    "url": "https://bsky.mk",
+    "handles": ["*.bsky.mk"]
+  },
+  {
+    "name": "beesky.social",
+    "url": "https://beesky.social",
+    "handles": ["*.beesky.social"]
+  },
+  {
+    "name": "beyhive.social",
+    "url": "https://beyhive.social",
+    "handles": ["*.beyhive.social"],
+    "notes": "Beyoncé fandom handle service"
+  },
+  {
+    "name": "bluesky.bot",
+    "url": "https://bluesky.bot/",
+    "handles": ["*.bluesky.bot"],
+    "notes": "For running Bluesky bot accounts"
+  },
+  {
+    "name": "comunidade.blue",
+    "url": "https://comunidade.blue",
+    "handles": ["*.comunidade.blue"],
+    "notes": "Brasileiro community handle"
+  }
+]
