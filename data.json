@@ -23,7 +23,7 @@
   },
   {
     "name": "handles.club",
-    "url":, "https://handles.club",
+    "url": "https://handles.club",
     "handles": ["literally too many to list here"],
     "notes": "provides a service that lets you run your own community handle domain at [handles.net](https://handles.net/)"
   },
@@ -34,7 +34,7 @@
     "notes": "Mostly Pokémon (Mystery Dungeon) or Digimon related"
   },
   {
-    "name" "kawaii.social",
+    "name": "kawaii.social",
     "url": "https://kawaii.social",
     "handles": ["*.kawaii.social"]
   },
@@ -51,7 +51,7 @@
     "notes": "For pharmacists"
   },
   {
-    "name:" "etheirys.social",
+    "name": "etheirys.social",
     "url": "https://etheirys.social/",
     "handles": ["*.etheirys.social"],
     "notes": "Intended for FFXIV players"
@@ -137,6 +137,12 @@
     "name": "comunidade.blue",
     "url": "https://comunidade.blue",
     "handles": ["*.comunidade.blue"],
-    "notes": "Brasileiro community handle"
-  }
+    "notes": "Primarily brasileiro community handle"
+  },
+	{
+		"name": "ceuazul.online",
+		"url": "https://ceuazul.online/",
+		"handles": ["*.ceuazul.online"],
+		"notes": "Primarily brasileiro community handle"
+	}
 ]

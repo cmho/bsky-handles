@@ -1,0 +1,1 @@
+If you have an open-registration handle, please feel free to [submit a pull request](https://github.com/cmho/bsky-handles/pulls) to add it to the list! Pull request approval is subject to my discretion, but presuming that your handle/community is open to all registrants and does not use any bigoted language, it'll probably be approved.
